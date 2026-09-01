@@ -1,0 +1,147 @@
+.logo {
+    height: 180px;
+    width: 280px;
+    margin-left: 600px;
+}
+
+.presentación {
+    height: 400px;
+    margin-left: 585px;
+    border-radius: 30%;
+}
+
+.texto-eslogan {
+    margin-left: 525px;
+    margin-top: 50px;
+}
+
+.menu a {
+    text-decoration: none;
+}
+
+.barra-nav {
+    background-color: khaki;
+    width: 100%;
+    height: 60px;
+}
+
+.body {
+    margin: 0;
+}
+
+.inicio {
+    margin-left: 120px;
+    font-size: 25px;
+    position: relative;
+    top: 10px;
+}
+
+.quienes-somos {
+    margin-left: 300px;
+    font-size: 25px;
+    position: relative;
+    top: 10px;
+}
+
+.catalogo {
+    margin-left: 300px;
+    font-size: 25px;
+    position: relative;
+    top: 10px;
+}
+
+.contactanos {
+    margin-left: 250px;
+    font-size: 25px;
+    position: relative;
+    top: 10px;
+}
+
+.titulo-presentacion {
+    text-align: center;
+    margin-right: 30px;
+}
+
+.texto-presentacion {
+    text-align: center;
+}
+
+.titulo-quienes {
+    text-align: center;
+}
+
+.texto-quienes {
+    text-align: center;
+}
+
+.titulo-vision {
+    margin-left: 1410px;
+    position: relative;
+    top: -100px;
+}
+
+.texto-vision {
+    margin-left: 850px;
+    position: relative;
+    top: -103px
+}
+
+.titulo-valores {
+    position: relative;
+    margin-left: 600px;
+    top: -50px;
+}
+
+.valores-textos {
+    position: relative;
+    margin-left: 655px;
+    top: -50px;
+}
+
+.equipo {
+    position: relative;
+    margin-left: 645px;
+    margin-top: -1px;
+}
+
+.texto-equipo {
+    position: relative;
+    margin-left: 300px;
+}
+
+.josue {
+    height: 350px;
+    margin-top: 30px;
+    border-radius: 80%;
+}
+
+.texto-josue {
+    position: relative;
+    top: 35px;
+}
+
+.yo {
+    width: 350px;
+    position: relative;
+    margin-left: 1150px;
+    border-radius: 45%;
+}
+
+.emanuel {
+    position:relative;
+    margin-left: 840px;
+    margin-top: -379px;
+}
+
+.texto-sneider {
+    position: relative;
+    margin-left: 500px;
+    margin-top: -450px;
+}
+
+.sneider {
+    position: relative;
+    height: 450px;
+    margin-left: 560px;
+    border-radius: 200%;
+}
